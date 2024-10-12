@@ -45,4 +45,4 @@ The project successfully identified significant predictors and provided actionab
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/data-mining-project.git
+   git clone https://github.com/Pranav2907/Data-Mining-for-Epitope-Prediction-in-Chagas-Disease.git
